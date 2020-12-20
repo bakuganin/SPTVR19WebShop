@@ -1,0 +1,283 @@
+* {
+    margin: 10px;
+    padding: 2px;
+    border-radius: 4px;
+    font-family: roboto;
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+}
+
+.back{
+    position: absolute;
+    width: 64.35px;
+    height: 65px;
+    left: 92px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.nazad{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 75px;
+    top: -8px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.hhh{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 9px;
+    top: -8px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: #161616;
+}
+
+input {
+    color: black;
+    background-color: gray;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*.table_main{
+    margin: auto;
+}
+
+.table_main td{
+     text-align: left;
+     padding: 15px
+}*/
+
+header{
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 3px;
+    top: 0px;
+
+    background: #161616;
+    box-shadow: 0px 4px 45px 2px #000000;
+}
+
+.dakdmaskd{
+    position: absolute;
+    width: 100.85px;
+    height: 50px;
+    left: 1150.17px;
+    top: -10px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+.buttons{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    top: 0px;
+}
+
+
+
+.spisokT{
+    position: absolute;
+    width: 100.85px;
+    height: 50px;
+    left: 437px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.spisokP{
+    position: absolute;
+    width: 100.86px;
+    height: 50px;
+    left: 556px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.buyT{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 675px;
+    top: -10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.changeO{
+    position: absolute;
+    width: 100.86px;
+    height: 50px;
+    left: 793.14px;
+    top: -10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.addP{
+    position: absolute;
+    width: 100.85px;
+    height: 50px;
+    left: 912.15px;
+    top: -10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.addT{
+    position: absolute;
+    width: 100.85px;
+    height: 50px;
+    left: 1031.16px;
+    top: -10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.footerr{
+    position: absolute;
+    width: 1440px;
+    height: 126px;
+    left: 0px;
+    top: 904px;
+
+    background: #0D0D0D;
+
+}
+
+.Rectangle1{
+    position: absolute;
+    width: 2px;
+    height: 85px;
+    left: 480px;
+    top: 9px;
+
+    background: #C4C4C4;
+}
+
+.Rectangle2{
+    position: absolute;
+    width: 2px;
+    height: 85px;
+    left: 480px;
+    top: -10px;
+
+    background: #C4C4C4;
+}
+
+.producs{
+    position: absolute;
+    left: 0px;
+    top: 150px;
+}
+
+.producs h1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.producs li{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 16px;
+    text-align: left;
+    
+    color: #FFFFFF;
+}
