@@ -40,7 +40,7 @@
         <form action="editProductForm2" method="POST">
             <select name="productId" multiple="true">
                 <c:forEach var="product" items="${listProducts}">
-                    <option value="${product.id}">${product.name} (${product.model}$) (${product.run}$) (${product.price}$)</option>
+                    <option value="${product.id}">${product.name} (${product.model}) (${product.run}) (${product.price}$)</option>
                 </c:forEach>
             </select>
             <br>

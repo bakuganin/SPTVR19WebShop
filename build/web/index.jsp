@@ -21,6 +21,7 @@
         
             <div class="buttons">
                 <div><a class="spisokT" href="listProducts">ТОВАРЫ</a></div>
+                <a href="index.jsp"></a>
                 <div><a class="spisokP" href="listPersons">ПОКУПАТЕЛИ</a></div>
 
                 <div><a class="buyT" href="buyProductForm">КУПИТЬ ТОВАР</a></td>

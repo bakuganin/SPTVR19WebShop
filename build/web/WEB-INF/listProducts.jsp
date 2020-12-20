@@ -40,7 +40,7 @@
             <h1>Товары:</h1>
             <ol type="1" name="productId" multiple="true">
                 <c:forEach var="product" items="${listProducts}">
-                    <li value="${product.id}">${product.name} (${product.model}$) (${product.run}$) (${product.price}$)</li>
+                    <li value="${product.id}">${product.name} (${product.model}) (${product.run}) (${product.price}$)</li>
                 </c:forEach>
             </ol>
         </div>

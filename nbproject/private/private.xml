@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Егор/Documents/NetBeansProjects/webshop/web/WEB-INF/glassfish-resources.xml</file>
-            <file>file:/C:/Users/Егор/Documents/NetBeansProjects/webshop/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/buyProductForm.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/index.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/editProductForm2.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/editPersonForm2.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/editProductForm1.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/addPersonForm.jsp</file>
+            <file>file:/C:/Users/franz/Documents/SPTVR19WebShop/web/WEB-INF/listPersons.jsp</file>
         </group>
     </open-files>
 </project-private>
